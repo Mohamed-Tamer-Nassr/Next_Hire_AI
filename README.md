@@ -317,11 +317,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Mohamed Tamer Nassr**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub:  ([https://github.com/Mohamed-Tamer-Nass](https://github.com/Mohamed-Tamer-Nassr))
+- LinkedIn: ([https://linkedin.com/in/y](https://www.linkedin.com/in/mohamed-tamer-nassr/))
+- Email: mohamed.tamer.mtn@gmail.com  
 
 ---
 
