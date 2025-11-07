@@ -1,0 +1,212 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* ✅ Ensure HeroUI plugin and source paths are correct.
+ *    Adjust relative paths as needed for your project structure.
+ */
+@plugin "../hero.ts";
+@source "../node_modules/@heroui/theme/dist/**/*.{js,ts,jsx,tsx}";
+
+/* ✅ Support dark mode variant for HeroUI */
+@custom-variant dark (&:is(.dark *));
+
+/* -------------------------------
+   🎨 Font Setup
+---------------------------------- */
+:root {
+  --font-sans: var(--font-plus-jakarta-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* ✅ Global text styling */
+body {
+  font-family: var(--font-sans), sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #111; /* adjust to match your light theme text color */
+  background-color: #fff; /* optional: ensures consistency */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+/* ✅ Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-sans), sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: inherit; /* inherit theme color */
+}
+
+/* ✅ Form elements & buttons */
+button,
+input,
+textarea,
+select {
+  font-family: var(--font-sans), sans-serif;
+  font-weight: 500;
+  color: inherit;
+}
+
+/* ✅ Optional: improve spacing consistency */
+p {
+  margin-bottom: 0.75rem;
+  font-weight: 400;
+}
+
+/* ✅ Optional: dark theme defaults */
+.dark body {
+  color: #e5e5e5;
+  background-color: #000000;
+}
+
+/* Add these animations to your globals.css or tailwind.config.js */
+
+@keyframes gradient-x {
+  0%,
+  100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+
+@keyframes scale-x {
+  0% {
+    transform: scaleX(0);
+  }
+  100% {
+    transform: scaleX(1);
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes glow-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(99, 102, 241, 0.8);
+  }
+}
+
+/* Utility classes */
+.animate-gradient-x {
+  background-size: 200% auto;
+  animation: gradient-x 3s ease infinite;
+}
+
+.animate-scale-x {
+  animation: scale-x 0.8s ease-out forwards;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.5s ease-out forwards;
+}
+
+.animate-slide-up {
+  animation: slide-up 0.6s ease-out forwards;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-glow-pulse {
+  animation: glow-pulse 2s ease-in-out infinite;
+}
+
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar (optional, for extra polish) */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--heroui-default-100));
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #34e89e, #0f3443);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #0f3443, #34e89e);
+}
+
+/* Improve button click feedback */
+button {
+  transition: transform 0.1s ease;
+}
+
+button:active {
+  transform: scale(0.97);
+}
+
+/* Add to Tailwind config for custom animations */
+/*
+module.exports = {
+  theme: {
+    extend: {
+      animation: {
+        'gradient-x': 'gradient-x 3s ease infinite',
+        'scale-x': 'scale-x 0.8s ease-out forwards',
+        'fade-in': 'fade-in 0.5s ease-out forwards',
+        'slide-up': 'slide-up 0.6s ease-out forwards',
+        'float': 'float 3s ease-in-out infinite',
+        'glow-pulse': 'glow-pulse 2s ease-in-out infinite',
+        'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+      }
+    }
+  }
+}
+*/

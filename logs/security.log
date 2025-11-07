@@ -1,0 +1,180 @@
+{"timestamp":"2025-10-23T06:32:26.475Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-10-23T06:32:57.015Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-10-23T06:34:34.163Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Password must contain at least one special character"}
+{"timestamp":"2025-10-23T06:34:41.033Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-10-23T06:38:03.098Z","event":"PROFILE_UPDATE","userId":"68f9cc80884972462a89d562","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed. Avatar updated: true"}
+{"timestamp":"2025-10-23T06:38:12.030Z","event":"PROFILE_UPDATE","userId":"68f9cc80884972462a89d562","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed. Avatar updated: true"}
+{"timestamp":"2025-10-23T06:51:21.956Z","event":"PROFILE_UPDATE","userId":"68f9cc80884972462a89d562","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed. Avatar updated: true"}
+{"timestamp":"2025-10-23T13:53:24.025Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-10-23T13:53:35.576Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-10-23T13:53:42.699Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-10-24T09:58:20.523Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer nassr. Avatar updated: false"}
+{"timestamp":"2025-10-24T09:58:29.758Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer Nassr. Avatar updated: false"}
+{"timestamp":"2025-10-24T09:58:33.508Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer Nassr. Avatar updated: false"}
+{"timestamp":"2025-10-24T09:58:34.703Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer Nassr. Avatar updated: false"}
+{"timestamp":"2025-10-24T09:58:35.730Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer Nassr. Avatar updated: false"}
+{"timestamp":"2025-10-24T09:59:40.342Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: M T N. Avatar updated: true"}
+{"timestamp":"2025-10-24T10:14:33.000Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer Nassr. Avatar updated: false"}
+{"timestamp":"2025-10-24T10:14:37.066Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer Nassr. Avatar updated: false"}
+{"timestamp":"2025-10-24T10:14:43.130Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer Nassr. Avatar updated: false"}
+{"timestamp":"2025-10-24T10:14:46.965Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer Nassr. Avatar updated: false"}
+{"timestamp":"2025-10-24T10:20:29.706Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: mohamed nassr. Avatar updated: false"}
+{"timestamp":"2025-10-24T10:21:57.861Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohaem. Avatar updated: false"}
+{"timestamp":"2025-10-24T10:21:59.750Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohaem. Avatar updated: false"}
+{"timestamp":"2025-10-24T10:22:04.726Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: M T Ndfads. Avatar updated: false"}
+{"timestamp":"2025-10-24T10:28:28.032Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: M T A S. Avatar updated: false"}
+{"timestamp":"2025-10-24T17:22:21.779Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name changed to: M T N. Avatar updated: true"}
+{"timestamp":"2025-10-24T18:38:05.396Z","event":"REGISTRATION","email":"mohamedwork151@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-10-24T18:39:11.261Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer MTA. Avatar updated: true"}
+{"timestamp":"2025-10-24T18:39:19.847Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name changed to: Mohamed Tamer MTA. Avatar updated: true"}
+{"timestamp":"2025-10-24T18:53:17.369Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MTA. Avatar: true"}
+{"timestamp":"2025-10-24T19:05:11.501Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MTA. Avatar: true"}
+{"timestamp":"2025-10-24T19:05:19.135Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MTA. Avatar: false"}
+{"timestamp":"2025-10-24T19:05:21.235Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MTA. Avatar: false"}
+{"timestamp":"2025-10-24T19:05:27.229Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MTA. Avatar: false"}
+{"timestamp":"2025-10-24T19:05:31.892Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MT. Avatar: false"}
+{"timestamp":"2025-10-24T19:07:59.170Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MTA. Avatar: false"}
+{"timestamp":"2025-10-24T19:08:01.729Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MTA. Avatar: false"}
+{"timestamp":"2025-10-24T19:08:03.758Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MTA. Avatar: false"}
+{"timestamp":"2025-10-24T19:08:06.726Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MTA. Avatar: false"}
+{"timestamp":"2025-10-24T19:08:40.405Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer Nassr. Avatar: false"}
+{"timestamp":"2025-10-24T19:10:50.871Z","event":"PROFILE_UPDATE","userId":"68fbc78d104ca5a055e40618","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer MTA. Avatar: false"}
+{"timestamp":"2025-10-25T08:17:20.158Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-10-26T06:07:38.547Z","event":"PROFILE_UPDATE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer Nassr. Avatar: false"}
+{"timestamp":"2025-10-26T06:08:19.236Z","event":"PASSWORD_CHANGE","userId":"68fa3606575871a77729be9a","email":"mohamedt3432@gmail.com","success":true,"details":"Password changed successfully"}
+{"timestamp":"2025-10-26T06:08:46.351Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedt3432@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-10-26T06:28:44.474Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-10-26T06:36:16.759Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-10-26T06:42:54.689Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-10-26T06:44:20.003Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-10-26T06:46:08.635Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-10-26T06:46:53.060Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-10-26T07:01:52.718Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"User not found during login attempt"}
+{"timestamp":"2025-10-26T07:01:54.065Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"User not found during login attempt"}
+{"timestamp":"2025-10-26T07:02:01.080Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"User not found during login attempt"}
+{"timestamp":"2025-10-26T07:02:12.106Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset requested (user not found)"}
+{"timestamp":"2025-10-26T07:10:17.129Z","event":"PROFILE_UPDATE","userId":"68fdc8d66e18974a26ee2740","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name: Mohamed MTA. Avatar: true"}
+{"timestamp":"2025-10-26T07:13:13.892Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-10-26T07:14:26.175Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-10-29T12:11:59.833Z","event":"PROFILE_UPDATE","userId":"68fdc8d66e18974a26ee2740","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name: Mohamed fuck any gril. Avatar: false"}
+{"timestamp":"2025-10-29T13:57:52.494Z","event":"PROFILE_UPDATE","userId":"68fdc8d66e18974a26ee2740","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name: Fuck Any One. Avatar: false"}
+{"timestamp":"2025-10-29T21:24:18.688Z","event":"REGISTRATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"Password must contain at least one uppercase letter. Password must contain at least one special character"}
+{"timestamp":"2025-10-29T21:24:32.587Z","event":"REGISTRATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"Password must contain at least one uppercase letter"}
+{"timestamp":"2025-10-29T21:24:34.748Z","event":"REGISTRATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"Password must contain at least one uppercase letter"}
+{"timestamp":"2025-10-29T21:24:38.767Z","event":"REGISTRATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"Too many registration attempts. Please try again in 60 minute(s)."}
+{"timestamp":"2025-10-29T21:24:45.089Z","event":"REGISTRATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"Too many registration attempts. Please try again in 60 minute(s)."}
+{"timestamp":"2025-10-29T21:24:45.455Z","event":"REGISTRATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"Too many registration attempts. Please try again in 60 minute(s)."}
+{"timestamp":"2025-10-29T21:24:45.671Z","event":"REGISTRATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"Too many registration attempts. Please try again in 60 minute(s)."}
+{"timestamp":"2025-10-29T21:25:22.941Z","event":"REGISTRATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"Too many registration attempts. Please try again in 60 minute(s)."}
+{"timestamp":"2025-10-29T21:26:07.752Z","event":"REGISTRATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"Too many registration attempts. Please try again in 59 minute(s)."}
+{"timestamp":"2025-10-29T21:26:29.378Z","event":"FAILED_AUTHENTICATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"User not found during login attempt"}
+{"timestamp":"2025-10-29T21:26:30.707Z","event":"FAILED_AUTHENTICATION","email":"ma7medtamer123xx@gmail.com","success":false,"details":"User not found during login attempt"}
+{"timestamp":"2025-10-29T21:40:02.180Z","event":"REGISTRATION","email":"mohamedwork151@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-10-29T21:46:06.327Z","event":"REGISTRATION","email":"ma7medtamer123xx@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-10-30T11:51:15.264Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-10-31T22:25:16.722Z","event":"PROFILE_UPDATE","userId":"68fdc8d66e18974a26ee2740","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer Nassr. Avatar: false"}
+{"timestamp":"2025-10-31T22:33:05.816Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-10-31T22:34:56.566Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Name can only contain letters, spaces, hyphens, and apostrophes"}
+{"timestamp":"2025-10-31T22:35:05.497Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"E11000 duplicate key error collection: next-hire.users index: email_1 dup key: { email: \"mohamedtamernasr2006@gmail.com\" }"}
+{"timestamp":"2025-10-31T22:35:23.341Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"E11000 duplicate key error collection: next-hire.users index: email_1 dup key: { email: \"mohamedtamernasr2006@gmail.com\" }"}
+{"timestamp":"2025-10-31T22:38:37.055Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Too many registration attempts. Please try again in 60 minute(s)."}
+{"timestamp":"2025-10-31T22:38:55.400Z","event":"REGISTRATION","email":"mohamedwork151@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-10-31T22:40:01.696Z","event":"PROFILE_UPDATE","userId":"69053a7f98941c6989359874","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer. Avatar: true"}
+{"timestamp":"2025-10-31T22:40:22.279Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-10-31T22:40:58.039Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-10-31T22:41:20.242Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-10-31T22:42:05.693Z","event":"PROFILE_UPDATE","userId":"69053a7f98941c6989359874","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: MTA. Avatar: true"}
+{"timestamp":"2025-11-01T11:03:33.610Z","event":"PROFILE_UPDATE","userId":"69053a7f98941c6989359874","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: MTA Org. Avatar: false"}
+{"timestamp":"2025-11-02T15:46:17.392Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-02T15:56:25.810Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-02T15:56:47.790Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-11-02T15:57:40.928Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-11-02T18:43:28.671Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-02T18:43:29.600Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-02T18:43:39.697Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-02T18:43:42.679Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-02T18:43:44.399Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Too many login attempts. Please try again in 15 minute(s)."}
+{"timestamp":"2025-11-02T18:43:50.041Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Too many login attempts. Please try again in 15 minute(s)."}
+{"timestamp":"2025-11-02T18:44:27.166Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Too many login attempts. Please try again in 15 minute(s)."}
+{"timestamp":"2025-11-02T19:19:33.927Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"User not found during login attempt"}
+{"timestamp":"2025-11-02T19:19:49.650Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset requested (user not found)"}
+{"timestamp":"2025-11-02T19:20:06.495Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset requested (user not found)"}
+{"timestamp":"2025-11-02T19:20:27.019Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset requested (user not found)"}
+{"timestamp":"2025-11-02T19:20:56.355Z","event":"REGISTRATION","email":"mohamedwork151@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-11-02T19:21:21.688Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset email sent"}
+{"timestamp":"2025-11-02T19:21:52.298Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-11-02T19:22:14.672Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-02T23:13:59.323Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset requested (user not found)"}
+{"timestamp":"2025-11-02T23:15:10.603Z","event":"PASSWORD_RESET_REQUEST","email":"mohamed@example.com","success":true,"details":"Password reset requested (user not found)"}
+{"timestamp":"2025-11-02T23:16:11.097Z","event":"REGISTRATION","email":"mohamedwork151@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-11-02T23:20:30.063Z","event":"PROFILE_UPDATE","userId":"6907e63a654ab6f5b2bb6897","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer Nassr. Avatar: true"}
+{"timestamp":"2025-11-02T23:20:44.009Z","event":"PROFILE_UPDATE","userId":"6907e63a654ab6f5b2bb6897","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: MTA. Avatar: false"}
+{"timestamp":"2025-11-02T23:36:45.863Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-02T23:47:02.875Z","event":"PASSWORD_RESET_REQUEST","email":"hassan@gmail.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-02T23:47:17.609Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset email sent successfully"}
+{"timestamp":"2025-11-02T23:47:56.440Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedwork151@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-11-03T21:46:40.003Z","event":"PASSWORD_RESET_REQUEST","email":"hassan@gmail.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-03T21:46:41.898Z","event":"PASSWORD_RESET_REQUEST","email":"hassan@gmail.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-03T21:47:11.877Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"E11000 duplicate key error collection: next-hire.users index: email_1 dup key: { email: \"mohamedtamernasr2006@gmail.com\" }"}
+{"timestamp":"2025-11-03T21:47:18.419Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"E11000 duplicate key error collection: next-hire.users index: email_1 dup key: { email: \"mohamedtamernasr2006@gmail.com\" }"}
+{"timestamp":"2025-11-03T21:47:46.417Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent successfully"}
+{"timestamp":"2025-11-03T21:48:22.181Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-11-05T15:06:17.933Z","event":"PROFILE_UPDATE","userId":"69092277526aa44984b48ed6","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name: mohamed tamer nasr. Avatar: true"}
+{"timestamp":"2025-11-05T15:06:31.115Z","event":"PROFILE_UPDATE","userId":"69092277526aa44984b48ed6","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name: MTA. Avatar: false"}
+{"timestamp":"2025-11-05T15:12:23.276Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"User not found during login attempt"}
+{"timestamp":"2025-11-05T15:12:29.675Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"User not found during login attempt"}
+{"timestamp":"2025-11-05T15:12:40.327Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"User not found during login attempt"}
+{"timestamp":"2025-11-05T15:13:04.632Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-11-05T15:13:45.268Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-05T15:18:32.461Z","event":"PROFILE_UPDATE","userId":"690b69808a2c090a21b2c604","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name: MTA. Avatar: true"}
+{"timestamp":"2025-11-05T23:41:57.525Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent successfully"}
+{"timestamp":"2025-11-05T23:42:14.441Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamer@example.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-05T23:42:45.875Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-11-05T23:45:34.635Z","event":"REGISTRATION","email":"mohamedwork151@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-11-05T23:45:52.473Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-05T23:46:57.380Z","event":"REGISTRATION","email":"mohamedwork151@gmail.com","success":false,"details":"E11000 duplicate key error collection: next-hire.users index: email_1 dup key: { email: \"mohamedwork151@gmail.com\" }"}
+{"timestamp":"2025-11-05T23:47:22.105Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-05T23:58:52.938Z","event":"PROFILE_UPDATE","userId":"690be19e644d7e9b48db3547","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer Nassr. Avatar: true"}
+{"timestamp":"2025-11-05T23:59:53.135Z","event":"PROFILE_UPDATE","userId":"690be19e644d7e9b48db3547","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer Nassr. Avatar: true"}
+{"timestamp":"2025-11-06T00:00:00.568Z","event":"PROFILE_UPDATE","userId":"690be19e644d7e9b48db3547","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: MTA. Avatar: false"}
+{"timestamp":"2025-11-06T16:23:09.512Z","event":"PROFILE_UPDATE","userId":"690be19e644d7e9b48db3547","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer Nassr. Avatar: true"}
+{"timestamp":"2025-11-06T16:23:58.938Z","event":"PASSWORD_CHANGE","userId":"690be19e644d7e9b48db3547","email":"mohamedwork151@gmail.com","success":true,"details":"Password changed successfully"}
+{"timestamp":"2025-11-06T17:02:15.902Z","event":"FAILED_AUTHENTICATION","email":"mohamed@example.com","success":false,"details":"User not found during login attempt"}
+{"timestamp":"2025-11-06T17:02:29.052Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-06T17:06:28.945Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-06T17:06:37.163Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-06T17:06:54.794Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent successfully"}
+{"timestamp":"2025-11-06T17:08:34.072Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent successfully"}
+{"timestamp":"2025-11-06T17:09:02.538Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent successfully"}
+{"timestamp":"2025-11-06T17:10:10.056Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-11-07T03:05:24.972Z","event":"PROFILE_UPDATE","userId":"690be19e644d7e9b48db3547","email":"mohamedwork151@gmail.com","success":true,"details":"Admin updated profile. Name: Mohamed. Roles: user. Avatar: false. Subscription: active"}
+{"timestamp":"2025-11-07T03:26:12.774Z","event":"PROFILE_UPDATE","userId":"690be19e644d7e9b48db3547","email":"mohamedwork151@gmail.com","success":true,"details":"Admin updated profile. Name: Mohamed Tamer. Roles: user. Avatar: false. Subscription: active"}
+{"timestamp":"2025-11-07T03:26:44.904Z","event":"PROFILE_UPDATE","userId":"690be19e644d7e9b48db3547","email":"mohamedwork151@gmail.com","success":true,"details":"Admin updated profile. Name: Mohamed Tamer. Roles: user. Avatar: true. Subscription: active"}
+{"timestamp":"2025-11-07T03:32:55.408Z","event":"FAILED_AUTHENTICATION","email":"mohamedwork151@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-07T04:07:16.594Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-07T04:07:22.319Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-07T17:50:08.165Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-07T17:50:10.810Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-07T18:07:09.471Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-07T18:07:19.094Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedwork151@gmail.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-07T18:09:03.754Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-11-07T18:09:38.598Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-07T18:12:16.670Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent successfully"}
+{"timestamp":"2025-11-07T18:13:18.105Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-11-07T18:41:10.320Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"E11000 duplicate key error collection: NextHireAI.users index: email_1 dup key: { email: \"mohamedtamernasr2006@gmail.com\" }"}
+{"timestamp":"2025-11-07T18:41:49.305Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-07T18:47:47.549Z","event":"REGISTRATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"E11000 duplicate key error collection: NextHireAI.users index: email_1 dup key: { email: \"mohamedtamernasr2006@gmail.com\" }"}
+{"timestamp":"2025-11-07T18:50:03.888Z","event":"PASSWORD_RESET_REQUEST","email":"mohamed.tamer.mtn@gmail.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-07T18:50:05.325Z","event":"PASSWORD_RESET_REQUEST","email":"mohamed.tamer.mtn@gmail.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-07T18:50:47.401Z","event":"REGISTRATION","email":"mohamedtamer@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-11-07T18:51:30.497Z","event":"FAILED_AUTHENTICATION","email":"mohamedtamernasr2006@gmail.com","success":false,"details":"Invalid password provided"}
+{"timestamp":"2025-11-07T18:57:30.703Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent successfully"}
+{"timestamp":"2025-11-07T19:01:16.836Z","event":"PASSWORD_RESET_REQUEST","email":"mohamed@example.com","success":false,"details":"Password reset requested for non-existent user"}
+{"timestamp":"2025-11-07T19:01:27.804Z","event":"PASSWORD_RESET_REQUEST","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset email sent successfully"}
+{"timestamp":"2025-11-07T19:02:11.114Z","event":"PASSWORD_RESET_COMPLETE","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Password reset completed successfully"}
+{"timestamp":"2025-11-07T19:04:37.206Z","event":"PROFILE_UPDATE","userId":"690e3f25c48ddec42eff748a","email":"mohamedtamernasr2006@gmail.com","success":true,"details":"Profile updated. Name: mohamed tamer nasr. Avatar: true"}
+{"timestamp":"2025-11-07T19:16:06.840Z","event":"PROFILE_UPDATE","userId":"690e4462c48ddec42eff7653","email":"mohamedwork151@gmail.com","success":true,"details":"Profile updated. Name: Mohamed Tamer Nassr. Avatar: true"}
+{"timestamp":"2025-11-07T19:23:54.514Z","event":"REGISTRATION","email":"mohamed.tamer.mtn@gmail.com","success":false,"details":"Password must contain at least one lowercase letter"}
+{"timestamp":"2025-11-07T19:24:03.104Z","event":"REGISTRATION","email":"mohamed.tamer.mtn@gmail.com","success":true,"details":"User registered successfully"}
+{"timestamp":"2025-11-07T19:28:21.035Z","event":"PROFILE_UPDATE","userId":"690e47521cc9c7bcd51dde4f","email":"mohamed.tamer.mtn@gmail.com","success":true,"details":"Profile updated. Name: mohamed tamer nassr. Avatar: true"}
+{"timestamp":"2025-11-07T19:31:20.972Z","event":"PROFILE_UPDATE","userId":"690e47521cc9c7bcd51dde4f","email":"mohamed.tamer.mtn@gmail.com","success":true,"details":"Admin updated profile. Name: mohamed tamer. Roles: user. Avatar: false. Subscription: active"}
