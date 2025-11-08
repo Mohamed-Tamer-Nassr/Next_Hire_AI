@@ -240,29 +240,6 @@ EMAIL_FROM=noreply@nexthire.ai
 - `GET /api/admin/stats` - Admin dashboard stats
 - `GET /api/admin/interviews` - All platform interviews
 
----
-
-## 📸 Screenshots
-
-### Landing Page
-
-![Landing Page](./screenshots/landing-page.png)
-
-### User Dashboard
-
-![Dashboard](./screenshots/dashboard.png)
-
-### Analytics
-
-![Analytics](./screenshots/analytics.png)
-
-### Interview Session
-
-![Interview](./screenshots/interview.png)
-
-### Admin Panel
-
-![Admin](./screenshots/admin.png)
 
 ---
 
