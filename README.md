@@ -13,12 +13,9 @@
 
 - [Overview](#-overview)
 - [Features](#-features)
-- [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
 - [Environment Variables](#-environment-variables)
-- [Project Structure](#-project-structure)
 - [API Routes](#-api-routes)
-- [Screenshots](#-screenshots)
 - [Deployment](#-deployment)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -296,8 +293,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Mohamed Tamer Nassr**
 
-- GitHub:  ([https://github.com/Mohamed-Tamer-Nass](https://github.com/Mohamed-Tamer-Nassr))
-- LinkedIn: ([https://linkedin.com/in/y](https://www.linkedin.com/in/mohamed-tamer-nassr/))
+- GitHub:  [https://github.com/Mohamed-Tamer-Nass](https://github.com/Mohamed-Tamer-Nassr
+- LinkedIn: [https://linkedin.com/in/y](https://www.linkedin.com/in/mohamed-tamer-nassr/
 - Email: mohamed.tamer.mtn@gmail.com  
 
 ---
